@@ -1,5 +1,4 @@
 
-// Jeremiah D. Inyang
 // 4.15.20
 
 
