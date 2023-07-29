@@ -2,7 +2,7 @@
 // 4.15.20
 
 
-
+// server side
 
 // compile: gcc rec09svr.c -o rec09svr
 // usage  : ./rec09svr port
