@@ -1,7 +1,7 @@
 
 
 // 4.14.20
-
+// client side
 
 // compile: gcc rec09cli.c -o rec09cli
 // usage  : ./rec09cli port
