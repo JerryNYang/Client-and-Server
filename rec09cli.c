@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 	portno = atoi(argv[1]);
 	serv_addr.sin_port = htons(portno);
 	
-	// home ... 127.0.0.1 ... local host
+	// home ... 127.0.0.1 ... local host!!
 	serv_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
 	if (connect( socket(AF_INET, SOCK_STREAM, 0)  ) < 0)
 	{
